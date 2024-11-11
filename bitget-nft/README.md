@@ -28,7 +28,7 @@ graph build
 ```
 goldsky subgraph deploy nft/1.0.0 --path .
 ```
-9. Go the the GraphQl api that you get after running the above command <br>
+9. Go the GraphQl api that you get after running the above command <br>
 Here are some sample queries for the template which can query all holders of a NFT collection
 * Fetch All Accounts With Their Tokens
 ```
